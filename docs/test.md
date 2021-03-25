@@ -1,4 +1,4 @@
-<div class="loading-part animated-quick">
+<!-- <div class="loading-part animated-quick">
 
      <div class="loader-part opacity-0 animated-quick">
 
@@ -7,7 +7,7 @@
 
      </div>
 
-</div>
+</div> -->
 
 <button class="open-menu-mobile">
      <i class="icon ion-navicon-round opening-menu"></i>

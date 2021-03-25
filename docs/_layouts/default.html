@@ -31,7 +31,7 @@
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
 
-        <a href="{{ site.github.repository_url }}5-key-value-store" class="btn">5-key-value-store</a>
+        <a href="{{ site.github.page.url }}5-key-value-store" class="btn">5-key-value-store</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
@@ -53,6 +53,8 @@
   <!-- * Libraries jQuery, Easing and Bootstrap - Be careful to not remove them * -->
   <script src="{{ '/assets/js/jquery.min.js?v=' | append: site.github.build_revision | relative_url }}"></script>
   <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+  <script src="https://alexsonar.github.io{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+  <script src="{{ site.github.page.url }}{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
 	<script src="js/jquery.min.js"></script>
 	<script src="js/jquery.easings.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>

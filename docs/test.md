@@ -483,4 +483,4 @@
 </p>
 
 <!-- Copyright -->
-<p class="copyright">©MALIN 2015</p>
+<p class="copyright">©M</p>

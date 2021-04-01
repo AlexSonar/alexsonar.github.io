@@ -396,7 +396,8 @@ p.lang {
 /* ------------------------------------- */
 .loading-part {
   position: fixed;
-  background: #f2f3f7;
+  /* background: #f2f3f7; */
+  background: #5f9488;
   top: 0;
   left: 0;
   width: 100vw;

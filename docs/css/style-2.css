@@ -1,10 +1,3 @@
-/*
-* MALIN - Perfect Coming Soon Template
-* Build Date: August 2015
-* Author: Madeon08
-* Copyright (C) 2015 Madeon08
-* This is a premium product available exclusively here : http://themeforest.net/user/Madeon08/portfolio
-*/
 /*  TABLE OF CONTENTS
     ---------------------------
     *. @Import & Reset
@@ -21,7 +14,7 @@
 /* ------------------------------------- */
 /* *. @Import & Reset .................. */
 /* ------------------------------------- */
-/* http://bourbon.io/ Sass Mixin Library */
+
 /* custom CSS files */
 @import url(font-awesome.min.css);
 @import url(ionicons.min.css);
@@ -85,7 +78,8 @@ table {
 /* 1. Generic styles ................... */
 /* ------------------------------------- */
 body {
-  background: #2B2D35;
+  /* background: #2B2D35; */
+  background: #75b6a6;
   font-family: "Open Sans", "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -334,7 +328,8 @@ p.lang {
       color: white; }
 
 .overlay {
-  background: rgba(10, 26, 36, 0.6);
+  /* background: rgba(10, 26, 36, 0.6); */
+  background: #a1b9816a;
   position: relative;
   left: 0;
   top: 0;
@@ -350,7 +345,9 @@ p.lang {
   transition: all 0.6s cubic-bezier(0.215, 0.61, 0.355, 1); }
 
 .darky-overlay {
-  background: rgba(10, 26, 36, 0.7); }
+  /* background: rgba(10, 26, 36, 0.7);  */
+  background: #a1b9816a;
+}
 
 .btn {
   font-family: Montserrat, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
@@ -395,7 +392,8 @@ p.lang {
 /* ------------------------------------- */
 .loading-part {
   position: fixed;
-  background: #f2f3f7;
+  /* background: #a4eadf; */
+  background: #99bcaa;
   top: 0;
   left: 0;
   width: 100vw;
@@ -737,7 +735,7 @@ p.lang {
   transition: all 0.3s cubic-bezier(0, 0, 0.58, 1); }
 
 .brand-logo {
-  max-width: 170px;
+  max-width: 370px;
   display: block;
   margin: auto;
   margin-bottom: 10px; }
@@ -930,7 +928,7 @@ p.lang {
 /* ------------------------------------- */
 #content-part {
   position: relative;
-  background: #f2f3f7;
+  background:  linear-gradient(to right, #f2f3f713, 45px, #f2f3f7f8 55%);
   top: 0;
   left: 100vw;
   width: 60vw;
@@ -998,9 +996,10 @@ p.lang {
 
 /* ===== About ===== */
 #main-about {
-  height: 400px;
+  height: 300px;
   width: 100%;
-  background: url(../img/banner-content.jpg) center;
+  /* background: url(../img/banner-content.jpg) center; */
+  background: url(../img/github-satellite-india-2021.png) center;
   background-size: cover;
   position: relative; }
   #main-about:before {
@@ -1008,7 +1007,9 @@ p.lang {
     display: block;
     width: 100%;
     height: 100%;
-    background: rgba(10, 26, 36, 0.7); }
+    /* background: rgba(10, 26, 36, 0.7);  */
+    background: rgba(10, 26, 36, 0.102);
+  }
   #main-about .item-title {
     top: 50%; }
     #main-about .item-title h1 {
@@ -1112,9 +1113,10 @@ p.lang {
       transform: scale(0.85); }
 
 .small-square {
-  background: url(../img/small-square-1.jpg);
+  background: url(../img/small-square-1.png);
   width: 100%;
-  background-color: #2B2D35;
+  /* background-color: #2B2D35; */
+  background-color: #c8d6d607;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1150,11 +1152,13 @@ p.lang {
       -o-transform: scale(0.85);
       transform: scale(0.85); }
   .small-square.second {
-    background-image: url(../img/small-square-2.jpg); }
+    background-image: url(../img/small-square-2.png); }
   .small-square.third {
-    background-image: url(../img/small-square-3.jpg); }
+    background-image: url(../img/small-square-3.png); }
   .small-square.fourth {
-    background-image: url(../img/small-square-4.jpg); }
+    background-image: url(../img/small-square-4.png); }
+    .small-square.five {
+      background-image: url(../img/small-square-8.jpg); }
 
 .large-square .hover-info, .small-square .hover-info {
   display: block;
@@ -1273,7 +1277,7 @@ p.lang {
 
 /* ===== Map ===== */
 #map {
-  height: 400px;
+  height: 0px;
   width: 100%;
   position: relative;
   z-index: 5;
@@ -1295,11 +1299,11 @@ p.lang {
 
 /* ===== Get in touch ===== */
 #contact-content {
-  background: #20232D; }
+  background: #5f9488; }
   #contact-content h2 {
     color: #FFFFFF; }
   #contact-content .contact-item {
-    background: #2B2D35;
+    background: #5A8A7F;
     border-left: 2px solid #00c8aa;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;

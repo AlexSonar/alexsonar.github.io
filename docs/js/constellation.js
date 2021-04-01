@@ -44,22 +44,22 @@ $(window).load(function() {
             defaults = {
                 star: {
                     color: 'rgba(0, 200, 170, .9)',
-                    width: 1
+                    width: 2
                 },
                 line: {
                     color: 'rgba(255, 255, 255, .4)',
-                    width: 0.2
+                    width: 0.4
                 },
                 position: {
-                    x: canvas.width * 1,
-                    y: canvas.height * 0.5
+                    x: canvas.width * 2,
+                    y: canvas.height * 0.9
                 },
                 width: window.innerWidth,
                 height: window.innerHeight,
-                velocity: 0.4,
+                velocity: 0.9,
                 length: 100,
                 distance: 200,
-                radius: 120,
+                radius: 220,
                 stars: []
             },
             config = $.extend(true, {}, defaults, options);

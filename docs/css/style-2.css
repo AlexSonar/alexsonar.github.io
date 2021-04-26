@@ -726,8 +726,11 @@ p.lang {
 /* ------------------------------------- */
 #home-part {
   position: fixed;
-  top: 0;
+  /* top: 0; */
+  top: -40px;
   left: 0;
+  width: 120% !important;
+  height: 100% !important;
   -webkit-transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
   -moz-transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
   -ms-transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);

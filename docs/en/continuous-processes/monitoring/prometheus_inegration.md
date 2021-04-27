@@ -1,4 +1,4 @@
-<div class="inner-content" id="about-content">
+<!-- <div class="inner-content" id="about-content"> -->
 # Prometheus Integration
 
 ## Prerequisites
@@ -90,4 +90,4 @@ Interested in contributing to Cayman? We'd love your help. Cayman is an open sou
 <a href="https://octoops.github.io/" class="btn btn-color about-content">About us</a>
 
 #prometheus #docker #docer-compose #debian:buster #nginx #apt-get #wget #yml
-</div>
+<!-- </div> -->

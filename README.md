@@ -1,2 +1,0 @@
-# octo-pages
-octo-pages

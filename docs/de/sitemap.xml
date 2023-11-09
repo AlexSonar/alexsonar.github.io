@@ -2,8 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alexsonar.github.io/de/technologies/getting-started/</loc>
+  </url><url>
     <loc>https://alexsonar.github.io/de/about/</loc>
-    <lastmod>2023-11-05T01:19:33+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,13 +12,20 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-CN"
-                href="https://alexsonar.github.io/zh-cn/about/"
+                hreflang="DE"
+                href="https://alexsonar.github.io/de/about/"
+                />
+  </url><url>
+    <loc>https://alexsonar.github.io/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexsonar.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="DE"
-                href="https://alexsonar.github.io/de/about/"
+                href="https://alexsonar.github.io/de/"
                 />
   </url><url>
     <loc>https://alexsonar.github.io/de/categories/</loc>
@@ -28,31 +36,20 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-CN"
-                href="https://alexsonar.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="DE"
                 href="https://alexsonar.github.io/de/categories/"
                 />
   </url><url>
-    <loc>https://alexsonar.github.io/de/</loc>
-    <lastmod>2023-11-05T01:19:33+03:00</lastmod>
+    <loc>https://alexsonar.github.io/de/showcase/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alexsonar.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://alexsonar.github.io/zh-cn/"
+                href="https://alexsonar.github.io/showcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="DE"
-                href="https://alexsonar.github.io/de/"
+                href="https://alexsonar.github.io/de/showcase/"
                 />
   </url><url>
     <loc>https://alexsonar.github.io/de/tags/</loc>
@@ -63,13 +60,20 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-CN"
-                href="https://alexsonar.github.io/zh-cn/tags/"
+                hreflang="DE"
+                href="https://alexsonar.github.io/de/tags/"
+                />
+  </url><url>
+    <loc>https://alexsonar.github.io/de/technologies/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexsonar.github.io/technologies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="DE"
-                href="https://alexsonar.github.io/de/tags/"
+                href="https://alexsonar.github.io/de/technologies/"
                 />
   </url>
 </urlset>

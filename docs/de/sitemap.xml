@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexsonar.github.io/de/technologies/getting-started/</loc>
-  </url><url>
     <loc>https://alexsonar.github.io/de/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -40,18 +38,6 @@
                 href="https://alexsonar.github.io/de/categories/"
                 />
   </url><url>
-    <loc>https://alexsonar.github.io/de/showcase/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexsonar.github.io/showcase/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="DE"
-                href="https://alexsonar.github.io/de/showcase/"
-                />
-  </url><url>
     <loc>https://alexsonar.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -62,18 +48,6 @@
                 rel="alternate"
                 hreflang="DE"
                 href="https://alexsonar.github.io/de/tags/"
-                />
-  </url><url>
-    <loc>https://alexsonar.github.io/de/technologies/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexsonar.github.io/technologies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="DE"
-                href="https://alexsonar.github.io/de/technologies/"
                 />
   </url>
 </urlset>

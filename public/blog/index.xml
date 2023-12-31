@@ -1,0 +1,83 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog – Blog</title>
+    <link>https://alexsonar.github.io/blog/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://alexsonar.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>https://alexsonar.github.io/blog/asembly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsonar.github.io/blog/asembly/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Percentage of page loads over time
+The chart below shows the percentage of page loads (in Chrome) that use this feature at least once. Data is across all channels and platforms. Newly added use counters that are not on Chrome stable yet only have data from the Chrome channels they&amp;rsquo;re on.&lt;/p&gt;
+&lt;p&gt;With many of the core WebAssembly features now cross browser and more advanced features joining the list like exception handling, tail calls, and garbage collection, I think we’re going to see more languages target WebAssembly and existing tooling improve.&lt;/p&gt;
+&lt;p&gt;WebAssembly is still a small amount at around 2% of Chrome users, but there has been a steady increase in its use on the web. Even at 2%, that’s still a pretty big amount given the size of the web.
+Sourcre: chromestatus&amp;gt;metrics&amp;gt;timeline&amp;gt;weassembly&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexsonar.github.io/blog/n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsonar.github.io/blog/n/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The hardest part of building software is not coding, it&amp;rsquo;s requirements&lt;/p&gt;
+&lt;p&gt;Why replacing programmers with AI won’t be so easy.&lt;/p&gt;
+&lt;p&gt;Data-driven developers often face challenges related to defining and understanding requirements for their software projects. While coding is an important aspect of software development, the real difficulties typically arise from determining what the software should do and how it should behave&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;Challenges in Defining and Understanding Requirements&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Ambiguity: Requirements can be vague or open to interpretation, leading to misunderstandings and potential errors in the final product.
+Changing Requirements: Requirements may change over time due to evolving business needs or new insights gained during the development process. Adapting to these changes can be challenging.
+Incomplete or Inconsistent Requirements: Inadequate or inconsistent requirements can lead to gaps in functionality or conflicting expectations.
+Lack of Domain Knowledge: Developers may face difficulties understanding the domain-specific concepts and terminology required to accurately capture requirements.
+Communication Issues: Effective communication between developers, stakeholders, and end-users is crucial for understanding and documenting requirements. Miscommunication can lead to misunderstandings and misaligned expectations.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Addressing the Challenges&lt;/p&gt;
+&lt;p&gt;To address these challenges, data-driven developers can employ various strategies:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Collaboration and Communication: Foster open and frequent communication with stakeholders and end-users to clarify requirements and ensure a shared understanding.
+Iterative Development: Adopt an iterative development approach, such as Agile or Scrum, which allows for continuous feedback and adaptation to changing requirements.
+User Stories and Use Cases: Utilize user stories and use cases to capture requirements in a more structured and user-centric manner.
+Prototyping and Mockups: Create prototypes or mockups to visualize and validate requirements before starting the development process.
+Domain Expertise: Seek domain experts&#39; input to gain a deeper understanding of the problem domain and ensure accurate requirement gathering.
+Requirements Documentation: Maintain clear and up-to-date documentation of requirements to serve as a reference throughout the development process.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;By addressing these challenges and employing effective strategies, data-driven developers can enhance their ability to define and understand requirements, leading to more successful software development projects.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexsonar.github.io/blog/world-class-developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsonar.github.io/blog/world-class-developers/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
